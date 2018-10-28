@@ -1,0 +1,6 @@
+14129,1000000,1155746,12.225,14129000,1540725554893,5280.461,2601.774060513837,4685823,4915199,5177343,5308415,5308415,5308415
+14130,1000000,1155733,12.226,14130000,1540725554894,5281.608,2601.963716135881,4685823,4915199,5177343,5308415,5308415,5308415
+Id, Throughput in this window (thousands events/second), Entire throughput for the run (thousands events/second), Total elapsed time(s),Total Events,CurrentTime,Average latency per event in this window(ms), Entire Average latency per event for the run(ms), AVG latency from start (90),AVG latency from start(95), AVG latency from start (99),AVG latency in this window(90),AVG latency in this window(95),AVG latency in this window(99)
+14132,1000000,1155802,12.227,14132000,1540725554895,5282.389,2602.3430298613075,4685823,4915199,5177343,5308415,5308415,5308415
+Id, Throughput in this window (thousands events/second), Entire throughput for the run (thousands events/second), Total elapsed time(s),Total Events,CurrentTime,Average latency per event in this window(ms), Entire Average latency per event for the run(ms), AVG latency from start (90),AVG latency from start(95), AVG latency from start (99),AVG latency in this window(90),AVG latency in this window(95),AVG latency in this window(99)
+14134,1000000,1155871,12.228,14134000,1540725554896,5283.257,2602.722368402434,4685823,4915199,5210111,5308415,5308415,5308415
