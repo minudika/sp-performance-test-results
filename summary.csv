@@ -1,5 +1,2 @@
-Scenario,Batch size,Window size,Total elapsed time(s),Total event count,    Entire throughput for the run (thousands events/second),Entire Average latency per event for the run(ms),AVG latency from start (90),AVG latency from start (95),AVG latency from start (99)
-Simple Passthrough,1000,1000,298.056,299000,1003,0.4927625418060201,999,1003,1999
-Simple Passthrough,1000,1000,298.056,299000,1003,0.4927625418060201,999,1003,1999
-Simple Passthrough,1000,1000,298.056,299000,1003,0.4927625418060201,999,1003,1999
-Simple Passthrough,1000,1000,298.098,299000,1003,0.5040167224080268,999,1003,2463, 0.01,0.03,0.05
+Scenario,Batch size,Window size,Total elapsed time(s),Total event count,    Entire throughput for the run (thousands events/second),Entire Average latency per event for the run(ms),AVG latency from start (90),AVG latency from start (95),AVG latency from start (99),    Load Average - Last 1 minute,Load Average - Last 5 minutes,Load Average - Last 15 minutes
+Simple Passthrough,1000,1000,298.054,299000,1003,0.44250167224080267,1003,1003,1999, 0.00,0.04,0.05
