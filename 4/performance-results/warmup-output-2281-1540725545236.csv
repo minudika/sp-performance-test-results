@@ -1,3 +1,0 @@
-1268,1000000,493577,2.569,1268000,1540725545237,626.072,719.4849061514195,1146879,1187839,1236991,626687,626687,626687
-Id, Throughput in this window (thousands events/second), Entire throughput for the run (thousands events/second), Total elapsed time(s),Total Events,CurrentTime,Average latency per event in this window(ms), Entire Average latency per event for the run(ms), AVG latency from start (90),AVG latency from start(95), AVG latency from start (99),AVG latency in this window(90),AVG latency in this window(95),AVG latency in this window(99)
-1270,1000000,494163,2.57,1270000,1540725545238,627.136,719.3393677165354,1146879,1187839,1236991,630783,630783,630783
