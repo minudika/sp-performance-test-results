@@ -1,0 +1,2 @@
+Scenario,Batch size,Window size,Total elapsed time(s),Total event count,    Entire throughput for the run (thousands events/second),Entire Average latency per event for the run(ms),AVG latency from start (90),AVG latency from start (95),AVG latency from start (99),    Load Average - Last 1 minute,Load Average - Last 5 minutes,Load Average - Last 15 minutes
+Simple Passthrough,1000,1000,598.056,599000,1001,0.44703005008347246,999,1003,1003, 0.00,0.03,0.05
