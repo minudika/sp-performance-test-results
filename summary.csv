@@ -1,5 +1,4 @@
 Scenario,Batch size,Window size,Total elapsed time(s),Total event count,    Entire throughput for the run (thousands events/second),Entire Average latency per event for the run(ms),AVG latency from start (90),AVG latency from start (95),AVG latency from start (99),    Load Average - Last 1 minute,Load Average - Last 5 minutes,Load Average - Last 15 minutes
 Simple Passthrough,1000,1000,1798.216,1799000,1000,0.40301612006670373,999,1003,1003, 0.00,0.01,0.05
 Filter,1000,1000,1797.155,450000,250,3.3706666666666667,3711,3775,4735, 0.01,0.04,0.05
-MySQL Insert,1000,1000,6637.864,6638000,1000,4.431226272973787,7263,7999,8383, 0.00,0.01,0.05
-MySQL Insert or Update,1000,1000,1792.236,1793000,1000,2.2658817624093697,3007,3007,4575, 0.01,0.03,0.05
+MySQL Update,1000,1000,1792.236,1793000,1000,2.2658817624093697,3007,3007,4575, 0.01,0.03,0.05
